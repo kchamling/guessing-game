@@ -1,7 +1,6 @@
 import random
 
 secret_number = random.randint(1, 100)
-print(secret_number)
 guess_count = 0
 guess_limit = 5
 out_of_guesses = False
